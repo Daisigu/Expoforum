@@ -1,0 +1,36 @@
+.side-menu{
+
+    margin-top: 263px;
+    background: #2378FC;
+}
+.side-menu-wrapper{
+    display: flex;
+    text-align: left;
+    justify-content: space-between;
+}
+.side-menu-item{
+    padding-top: 75px;
+}
+.side-menu-list{
+    font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 135%;
+padding-top: 15px;
+padding-bottom: 75px;
+}
+.side-menu__list-item{
+    margin-top: 15px;
+    padding: 0;
+}
+.list-title{
+    margin: 0;
+    font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 130%;
+}
+.side-menu__list-item a:hover{
+    text-decoration: underline;
+    color: #FFC41E;
+}

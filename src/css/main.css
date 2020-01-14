@@ -1,0 +1,36 @@
+html{
+    box-sizing: border-box;
+}
+*,*::after,*::before{
+    box-sizing: inherit;
+}
+.container{
+    max-width: 1110px;
+    padding: 0 15px;
+    position: relative;
+    margin: 0 auto;
+
+}
+li{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+body{
+  background-image: url('/src/img/bgc.jpg');
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: top;
+  background-color: rgb(99, 92, 92);
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+    color: white;
+}
