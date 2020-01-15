@@ -32,7 +32,8 @@ const styleFiles = [
    './src/css/main-section.css',
    './src/css/side-menu.css',
    './src/css/event-block.css',
-   './src/css/news-block.css'
+   './src/css/news-block.css',
+   './src/css/main-footer.css'
 ]
 //Порядок подключения js файлов
 const scriptFiles = [
