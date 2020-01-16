@@ -24,7 +24,7 @@ a{
     color: #fff;
 }
 body{
-  background-image: url('/src/img/bgc.jpg');
+  background-image: url('../img/bgc.jpg');
   background-repeat: no-repeat;
   background-size: auto;
   background-position: top;
