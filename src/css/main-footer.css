@@ -1,0 +1,107 @@
+.main-footer{
+    background-color: #30BCC9;
+}
+.list-title{
+    font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 130%;
+letter-spacing: -0.01em;
+color: #FFFFFF;
+margin-bottom: 20px;
+}
+.footer__list-item{
+    font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+color: #E0E0E0;
+margin-bottom: 10px;
+}
+.footer__list-item a{
+    color: #E0E0E0;
+}
+.footer__list-item a:hover{
+    text-decoration: underline;
+    color: #FFC41E;
+}
+.footer__list-item:nth-last-child(1){
+    margin-bottom: 40px;
+}
+.footer-list{
+    width: 255px;
+}
+.footer-wrapper{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: 60px;
+}
+.fa-vk{
+    font-weight: normal;
+}
+.footer-list-social-button{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.footer-list-social-button h3{
+width: 230px;
+height: 27px;
+margin: 0;
+}
+.fa,.fab{
+    cursor: pointer;
+}
+.footer__list-item .yt:hover{
+    color: red;
+}
+.footer__list-item .vk:hover{
+    color: rgb(48, 76, 134);
+}
+.footer__list-item .fb:hover{
+    color: rgb(14, 12, 131);
+}
+.footer__list-item .inst:hover{
+    color: rgb(145, 9, 83);
+}
+.app-button{
+    background-color: black;
+    width: 170px;
+    border-radius: 8px;
+    border: 1px solid #B7B7B7;
+}
+.app-button img{
+    padding-left: 10px;
+    display: inline-block;
+}
+.app-button p{
+    display: inline-block;
+    font-size: 10px;
+    margin-left: 10px;
+}
+.app-button span{
+    font-size: 20px;
+}
+.footer-list-app a:hover{
+    color: rgb(138, 115, 160);
+    cursor: pointer;
+}
+.form-wrapper{
+    display: flex;
+}
+.email{
+    width: 215px;
+height: 40px;
+outline: none;
+border: none;
+padding: 13px 0 11px 20px;
+}
+.submit{
+    width: 40px;
+height: 40px;
+background-color: #F6404F;
+border: none;
+padding-top: 8px;
+cursor: pointer;
+}

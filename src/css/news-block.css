@@ -38,6 +38,9 @@ text-decoration-line: underline;
 color: #2E373B;
 margin-left: 272px;
 }
+.news-details:hover{
+    color: #FFC41E;
+}
 .news__list-item img{
     display: inline-block;
 }

@@ -26,6 +26,9 @@ letter-spacing: -0.01em;
 text-decoration-line: underline;
 color: #2E373B;
 }
+.events-details:hover{
+    color: rgb(255, 56, 30);
+}
 .events-list{
     display: flex;
     flex-wrap: wrap;
